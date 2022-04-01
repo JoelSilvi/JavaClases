@@ -15,7 +15,7 @@ public class Caja {
         this.profundo = profundo;
     }
 
-    public int volumenCaja(){
+    public int volumenCaja() {
         return this.ancho * this.alto * this.profundo;
     }
 }
